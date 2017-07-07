@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Snir Yacoby		yacobysn@gmail.com	@yacobysn
 
 # THANKS
 
